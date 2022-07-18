@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 # IQ Coding
 
 Olá, seja bem-vindo ao meu repositório!
-Aqui você encontra-rá arquivos relacionados ao meu [Canal no YouTube](https://www.youtube.com/iqcoding) e alguns projetos que monto por diversão.
+Aqui você encontrara arquivos relacionados ao meu [Canal no YouTube](https://www.youtube.com/iqcoding) e alguns projetos que monto por diversão.
