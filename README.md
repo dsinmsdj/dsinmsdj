@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dsinmsdj/dsinmsdj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# IQ Coding
+
+Olá, seja bem-vindo ao meu repositório!
+Aqui você encontra-rá arquivos relacionados ao meu [Canal no YouTube](https://www.youtube.com/iqcoding) e alguns projetos que monto por diversão.
